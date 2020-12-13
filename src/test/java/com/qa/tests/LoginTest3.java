@@ -5,7 +5,7 @@ package com.qa.tests;
 
 import org.testng.annotations.Test;
 
-public class LoginTest2 
+public class LoginTest3 
 {
 	@Test
 	public void test1()
